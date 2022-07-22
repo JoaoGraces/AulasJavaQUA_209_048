@@ -2,7 +2,7 @@ package aulas;
 
 import java.util.Scanner;
 
-public class EstruturSelecao_02 {
+public class EstruturaSelecao_02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -31,6 +31,8 @@ public class EstruturSelecao_02 {
 		else {
 			System.out.printf("%d é o maior número", n3);
 		}
+		
+		sc.close();
 	}
 
 }

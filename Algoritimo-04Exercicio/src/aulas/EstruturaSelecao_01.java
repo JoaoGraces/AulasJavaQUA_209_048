@@ -24,7 +24,7 @@ public class EstruturaSelecao_01 {
 			System.out.printf("%d o mior número!", n2);
 		}
 		
-		
+		sc.close();
 		
 	}
 }
